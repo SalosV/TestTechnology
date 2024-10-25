@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="empty_state">0dp</dimen>
+    <dimen name="large_space">16dp</dimen>
+    <dimen name="medium">8dp</dimen>
+</resources>
